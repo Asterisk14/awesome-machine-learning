@@ -37,6 +37,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
 * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript
+* [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html) - Open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks.
 
 #### General-Purpose Machine Learning
 
